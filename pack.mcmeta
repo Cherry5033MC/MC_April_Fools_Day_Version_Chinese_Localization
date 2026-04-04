@@ -1,0 +1,27 @@
+{
+  "pack": {
+    "description": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "text": "26w14a汉化 ByCherry5033MC",
+        "color": "#ffffff"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "text": "\n\ue789\ue89a",
+        "color": "#ffffff",
+        "font": "5033_26w14a_card_font:default"
+      }
+    ],
+    "pack_format": 15,
+    "supported_formats": [ 1, 64 ],
+    "min_format": 1,
+    "max_format": 9999
+  }
+}
