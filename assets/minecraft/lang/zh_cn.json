@@ -61,7 +61,7 @@
   "item.minecraft.group_action": "编/解组",
   "item.minecraft.highlight_action": "高亮",
   "item.minecraft.move_action": "移动",
-  "item.minecraft.punch_action": "攻击",
+  "item.minecraft.punch_action": "击打",
   "item.minecraft.select_action": "选择",
   "item.minecraft.select_group_action.details": "已选组：%s",
   "item.minecraft.select_group_action": "选择组",
